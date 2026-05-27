@@ -40,7 +40,7 @@ For a word-for-word translation of relevant utterances refer to glossing
 
 (iiii) sang / sing\PST
 
-#### Glossing decisions:
+#### Specific Glossing decisions:
 - In general maximal glossing was applied (marking as many features as possible).
 - For verbs: verb-person.number.tense.modus
 ###### EXAMPLE:
