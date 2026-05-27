@@ -1,5 +1,5 @@
 ## Read me H06b:
-### Data collection H06b German:
+
 Data collection of H06b datasets started on 04.04.2025 and ended on 30.04.2026.
 ## Data annotation H06b German:
 ### General remarks:
