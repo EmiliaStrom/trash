@@ -27,8 +27,9 @@ Data collection of H06b datasets started on 04.04.2025 and ended on 30.04.2026.
 
 ### Translation
 
-1. The translation is based on the German transcription and focuses on understandability for non-German speakers.
-2. Relevant translation decisions
+1. The translation is based on the German transcription and focuses on understandability for non-German speakers. For a word-for-word translation of relevant utterances refer to glossing.
+2. Specific translation decisions
+   
    a. Interjections (all marked @i):
       - 'hä' = 'huh'
       - 'mhm' = 'mhm'
@@ -38,7 +39,7 @@ Data collection of H06b datasets started on 04.04.2025 and ended on 30.04.2026.
       - 'öhm' = 'uhm'
       - 'öh' = 'uh'
       - 'äh' = 'uh'
-   b. For a word-for-word translation of relevant utterances refer to glossing.
+        
 3. Markings were only used in the general translation, not in the translation of the chosen utterances.
 4. Brackets were only used in the general translation, not in the translation of the chosen utterances.
 
